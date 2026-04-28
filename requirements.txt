@@ -1,0 +1,10 @@
+streamlit
+Pillow
+pandas
+numpy
+matplotlib
+seaborn
+joblib
+lightgbm
+category-encoders
+scikit-learn==1.6.1
